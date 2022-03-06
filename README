@@ -1,0 +1,5 @@
+# Regular Expression Lexer
+
+## Introduction
+
+This library can generate table driven deterministic finite automatons using a list of regular expressions.
