@@ -3,3 +3,9 @@
 ## Introduction
 
 This library can generate table driven deterministic finite automatons using a list of regular expressions.
+
+## Bibliography
+
+- Brzozowski, Janusz A. (1964). Derivatives of regular expressions. Journal of the ACM, 11(4), 481–494.
+
+- Owens, S., Reppy, J. and Turon, A. (2009). Regular-expression derivatives re-examined. Journal of Functional Programming, 19(2), 173-190.
